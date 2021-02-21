@@ -1,5 +1,5 @@
 const cypressPluginConfig: Cypress.PluginConfig = (on, config) => {
-  // Configure plugins here
+	// Configure plugins here
 };
 
 export default cypressPluginConfig;
